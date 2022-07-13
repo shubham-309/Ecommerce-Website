@@ -1,0 +1,18 @@
+.cate-img{
+    height: 100px;
+    border-radius: 10px;
+}
+
+.edit{
+    margin-right: 5px;
+    background-color: rgb(5, 106, 194);
+    color: white;
+    margin-top: 56px;
+}
+
+.delete{
+    background-color: red;
+    color: white;
+    margin-top: 56px;
+    
+}
